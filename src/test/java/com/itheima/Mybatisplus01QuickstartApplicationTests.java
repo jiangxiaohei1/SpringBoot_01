@@ -22,6 +22,7 @@ class Mybatisplus01QuickstartApplicationTests {
     void testGetAll() {
         List<User> users = userDao.selectList(null);
         System.out.println(users);
+        System.out.println("nihaoa");
 
     }
 
