@@ -24,6 +24,7 @@ class Mybatisplus01QuickstartApplicationTests {
         System.out.println(users);
         System.out.println("nihaoa");
         System.out.println("123456789");
+        System.out.println("master test");
 
     }
 
